@@ -10,5 +10,5 @@ It is coded with html and css.
 
 <h2>Gif</h2>
 
-![](amazon-clone.gif)
+![](Amazon-clone.gif)
 
