@@ -6,9 +6,9 @@ It is coded with html and css.
 
 <h2>Screenshot</h2>
 
-![](Amazon-clone.png)
+![](/images/Amazon-clone.png)
 
 <h2>Gif</h2>
 
-![](Amazon-clone.gif)
+![](/images/Amazon-clone.gif)
 
